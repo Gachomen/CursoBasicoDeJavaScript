@@ -1,0 +1,24 @@
+
+//operadores binareos o matematicos
+1+2
+3-4
+5*6
+7/8
+"jeisson "+"Felipe"//tambiensirve con srings
+
+!false //unity operator o operadores unitarios (el signo "!" niega la operacion )
+
+var a = 1//operador de asignacion
+a == 1   //operador de conparacion igual
+1 === "1"//operacion de comparacion igual estricta
+5 >  3   //operacion de comparacion mayor que
+5 >= 3   //operacion de comparacion mayor o igual
+5 <  3   //operacion de comparacion menor que
+5 <= 3   //operacion de comparacion menor o igual
+
+a && b //operacion de validacion si a y b son verdad
+a || b //operacion de validacion si a o b es verdad
+
+var edad = 40
+edad ++  //operador de sumar un numero
+edad +=2 //operador de sumar la cantidad que quiera
